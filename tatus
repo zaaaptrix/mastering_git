@@ -1,0 +1,66 @@
+[33mcommit 7d1c089d69dd7fc6c10774c793da5f62c7bf01ab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev-kushal[m[33m)[m
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Mon Dec 29 16:18:50 2025 +0530
+
+    add console.log to hello.js
+
+[33mcommit 84baec770609ef4ebbe1b2e8f1d07b542bf301e8[m
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Mon Dec 29 16:16:31 2025 +0530
+
+    resolve merge conflicts
+
+[33mcommit 01b541f1853b40601d319feab555d4cc29a44ded[m[33m ([m[1;31morigin/dev-kushal[m[33m)[m
+Merge: d60e538 421cc48
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Mon Dec 29 16:07:19 2025 +0530
+
+    Merge branch 'main' into dev-kushal
+
+[33mcommit 421cc4825c05a704544ff4abdfe568fa05b4b1f5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 1afa0ac cf25571
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Mon Dec 29 15:57:58 2025 +0530
+
+    Merge pull request #3 from zaaaptrix/dev-jsm
+    
+    today, i woke up at 6 am. Hurray!!
+
+[33mcommit cf25571dbb9bca864c11acbf530ad081ec03a90c[m[33m ([m[1;31morigin/dev-jsm[m[33m, [m[1;32mdev-jsm[m[33m)[m
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Mon Dec 29 15:56:25 2025 +0530
+
+    today, i woke up at 6 am. Hurray!!
+
+[33mcommit d60e53800bb21d6252f6f81068bf0441a656a4cc[m
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Mon Dec 29 15:53:11 2025 +0530
+
+    Modify Readme by changing heading
+
+[33mcommit 1afa0acd522754c4692ee4c38eb75a7fd67a35ce[m
+Merge: 88a67c1 3fc2873
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Mon Dec 29 15:46:19 2025 +0530
+
+    Merge pull request #1 from zaaaptrix/feature-branch
+    
+    Modify readme
+
+[33mcommit 3fc2873ad7dd47d4af7b119419dc0eb92b0434c1[m[33m ([m[1;31morigin/feature-branch[m[33m, [m[1;32mfeature-branch[m[33m)[m
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Mon Dec 29 15:37:43 2025 +0530
+
+    Modify readme
+
+[33mcommit 88a67c1fea257f789ecc1385ba1bcb0f9be93095[m[33m ([m[1;32mnewBranch[m[33m, [m[1;32mbranchNew[m[33m)[m
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Sun Dec 28 22:23:17 2025 +0530
+
+    Add hello and test files
+
+[33mcommit 99783e0a559f4d904341a0ebf12d1cc87cc067ce[m
+Author: Kushal <gurjarkushal.18@gmail.com>
+Date:   Sun Dec 28 22:21:27 2025 +0530
+
+    Add readme.md
